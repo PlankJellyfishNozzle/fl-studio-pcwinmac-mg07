@@ -1,4 +1,4 @@
-# 
+# Open Source FL Studio workflow for Mac OS | Free FL Studio workflow for PC Windows. Featuring screen-capture and virtual-camera — optimized for maximum performance on every platform.
 
 
 
